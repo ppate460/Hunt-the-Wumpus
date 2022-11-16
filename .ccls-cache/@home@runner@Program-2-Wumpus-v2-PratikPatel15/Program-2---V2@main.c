@@ -1,3 +1,5 @@
+// GitHub Token: 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
+
 /* main.cpp
     Program 1: Wumpus, version 1 (fixed size array)
     Description:
