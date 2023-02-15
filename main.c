@@ -3,10 +3,8 @@
 Prog 2: Wumpus
 (bats, arrow, and all arrays are dynamic)
 
-Course: CS 211, Fall 2021. Wed 8am lab
-System: Mac using Visual Studio Code & Repl.it
 Author: Pratik Patel
-UIN: 669224629
+
 ---------------------------------------------
 */
 
