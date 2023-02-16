@@ -6,4 +6,4 @@ The Wumpus lives in a completely dark cave of 20 rooms.  Each room has 3 tunnels
 This program implements this game, with all arrays being dynamically allocated.
 
 Path of the Project: 
-main.c
+**main.c**
