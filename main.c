@@ -1,6 +1,6 @@
 
 /* ---------------------------------------------
-Prog 2: Wumpus
+Prog 2: Hunt the Wumpus
 (bats, arrow, and all arrays are dynamic)
 
 Author: Pratik Patel
